@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameObject
+comment0.text=\r\n\ Extends\ Actor\r\n\ Superclass\ of\ all\ interactable\ game\ objects\r\n\ \r\n
+comment1.params=
+comment1.target=GameObject()
+comment1.text=\r\n\ Default\ Constructor\r\n\ Implicitly\ creates\ a\ player\r\n
+comment2.params=name
+comment2.target=GameObject(java.lang.String)
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=void\ Jump()
+comment4.text=\r\n\ \r\n
+comment5.params=
+comment5.target=void\ FixedUpdate()
+comment5.text=\r\n\ saves\ the\ current\ object.\ \r\n\ calls\ itself\ at\ a\ random\ interval\ from\ 0-0.3d\r\n
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MediumWall
+comment0.text=\r\n\ Medium-height\ moving\ obstacle,\ tied\ to\ movingGround\r\n\ Player\ loses\ if\ they\ touch\ this.\r\n\ Extends\ class\ Obstacle\r\n
+comment1.params=x
+comment1.target=MediumWall(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MediumWall\r\n\ \r\n\ @param\ x\:\ initial\ x\ coordinates\ of\ the\ instance,\ used\ for\ calculating\ new\ position\ when\ moving\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ComradeStalin
+comment0.text=\r\n\ Static\ image\r\n\ Extends\ GameObject\r\n
+comment1.params=
+comment1.target=ComradeStalin()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ComradeStalin\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Overridden\ act\ to\ prevent\ movement\r\n
+numComments=3

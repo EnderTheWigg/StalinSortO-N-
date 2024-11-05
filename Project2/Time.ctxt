@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\r\n\ Tracks\ time\ between\ frames,\ and\ change\ in\ time\ in\ seconds\r\n\ Tracks\ game\ start\ and\ current\ time\r\n
+comment1.params=
+comment1.target=void\ UpdateTime()
+comment1.text=\r\n\ Update\ currentTime\r\n\ Set\ new\ deltaTime\r\n\ recalculate\ previous\ frame\ length\r\n
+comment2.params=prevFrameTime\ currFrameTime
+comment2.target=void\ SetDeltaTime(double,\ double)
+comment2.text=\r\n\ Calculate\ change\ in\ time\ in\ seconds\ between\ frames\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EmptyWall
+comment0.text=\r\n\ Placeholder\ obstacle,\ tied\ to\ movingGround\r\n\ Hidden\ off\ map\r\n\ Extends\ class\ Obstacle\r\n\ Act\ method\ overwritten\ to\ prevent\ movement\ and\ collision\ with\ player\r\n
+comment1.params=x
+comment1.target=EmptyWall(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EmptyWall\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MovingGround
+comment0.text=\r\n\ Class\ for\ MovingGround\ objects\r\n\ Makes\ up\ the\ "floor"\ of\ the\ game\r\n\ Linked\ to\ obstacles\r\n\ Removed\ upon\ reaching\ beyond\ left\ side\ of\ the\ screen\r\n\ Can\ be\ "stood\ on"\ by\ player\r\n\ Extends\ GameObject\r\n
+comment1.params=
+comment1.target=MovingGround()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ MovingGround\r\n\ deafault\ xAxis\ is\ 1400\r\n\ Sets\ image\r\n
+comment2.params=x
+comment2.target=MovingGround(int)
+comment2.text=\r\n\ @param\ x\ -\ starting\ xAxis\ of\ the\ instance\r\n\ Sets\ image\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Ensures\ proper\ location\ for\ instances\ created\ using\ the\ default\ constructor\r\n\ Moves\ Actor\r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ Calculates\ and\ saves\ the\ new\ location\ before\ moving\ the\ object\r\n\ Changes\ location\ by\ 5.5\ to\ the\ left\ (decreases\ xAxis)\ every\ call\r\n
+comment5.params=
+comment5.target=boolean\ isTouchingLeftBoundary()
+comment5.text=]\r\n\ @return\ whether\ xAxis\ is\ <\=\ -200\r\n
+comment6.params=
+comment6.target=void\ FixedUpdate()
+comment6.text=\r\n\ saves\ the\ current\ object.\ \r\n\ calls\ itself\ at\ a\ random\ interval\ from\ 0-0.3d\r\n
+numComments=7

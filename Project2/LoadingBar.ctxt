@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LoadingBar
+comment0.text=\r\n\ Simple\ Actor\ that\ acts\ as\ a\ loading\ bar\r\n\ Moved\ via\ StalinWorld\ Class\r\n
+comment1.params=
+comment1.target=LoadingBar()
+comment1.text=\r\n\ Default\ constructor\r\n\ Sets\ image\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Overriden\ act\ method,\ prevents\ movement\r\n
+numComments=3

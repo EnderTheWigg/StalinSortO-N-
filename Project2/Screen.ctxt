@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Screen
+comment0.text=\r\n\ Creates\ the\ game\ "World"\r\n\ Extends\ Mayflower\r\n\ Creates\ save\ files\r\n\ Used\ to\ start\ game\r\n
+comment1.params=
+comment1.target=Screen()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=
+comment2.target=void\ init()
+comment2.text=\r\n\ Creats\ a\ new\ save\ file\ if\ none\ exist\r\n\ Creates\ a\ new\ StalinWorld,\ serving\ as\ the\ game\ World\r\n
+numComments=3

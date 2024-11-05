@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ShortWall
+comment0.text=\r\n\ Short\ moving\ obstacle,\ tied\ to\ movingGround\r\n\ Player\ loses\ if\ they\ touch\ this.\r\n\ Extends\ class\ Obstacle\r\n
+comment1.params=x
+comment1.target=ShortWall(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ShortWall\r\n\ \r\n\ @param\ x\:\ initial\ x\ coordinates\ of\ the\ instance,\ used\ for\ calculating\ new\ position\ when\ moving\r\n
+numComments=2

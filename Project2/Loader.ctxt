@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Loader
+comment0.text=\r\n\ Loads\ from\ the\ save\ file.\r\n\r\n\ @author\ Sohum\ Tambe\r\n\ Takes\ in\ a\ list\ of\ all\ the\ classes\ you\ have\ saved,\ the\ current\ world,\ the\ moving\ ground\ queue,\ and\ the\ obstacle\ queue\r\n\ \ \ Reads\ through\ the\ save\ file\ and\ instantiates\ the\ saved\ objects\ to\ the\ current\ world\r\n
+comment1.params=allClassesUsed\ w\ gq\ oq
+comment1.target=Loader(java.util.List,\ mayflower.World,\ java.util.LinkedList,\ java.util.LinkedList)
+comment1.text=\r\n\ Takes\ in\ a\ list\ of\ all\ the\ classes\ you\ have\ saved,\ the\ current\ world,\ the\ moving\ ground\ queue,\ and\ the\ obstacle\ queue\r\n\ Reads\ through\ the\ save\ file\ and\ instantiates\ the\ saved\ objects\ to\ the\ current\ world\r\n
+comment2.params=
+comment2.target=GameObject\ getPlayer()
+comment2.text=\r\n\ Helper\ method\r\n
+numComments=3

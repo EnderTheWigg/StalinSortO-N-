@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment0.text=\r\n\ Superclass\ for\ obstacles\ (Short,\ Medium,\ Tall,\ Empty\ -\ Wall\ Classes)\r\n\ \ Extends\ GameObject\r\n\ \ Framework\ for\ implicit\ method\ calls\ in\ subclasses\r\n
+comment1.params=
+comment1.target=Obstacle()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Obstacle\r\n\ Default\ xAxis\ set\ at\ 1400\r\n\ Has\ randomized\ image\ selection\ for\ use\ in\ loading,\ overridden\ in\ subclasses\r\n
+comment2.params=x
+comment2.target=Obstacle(int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Obstacle\r\n\ @param\ x\ is\ the\ initial\ xAxis\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Ensures\ proper\ location\ for\ instances\ created\ using\ the\ default\ constructor\r\n\ Moves\ Actor\r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ Calculates\ and\ saves\ the\ new\ location\ before\ moving\ the\ object\r\n\ Changes\ location\ by\ 5.5\ to\ the\ left\ (decreases\ xAxis)\ every\ call\r\n
+comment5.params=
+comment5.target=void\ FixedUpdate()
+comment5.text=\r\n\ saves\ the\ current\ object.\ \r\n\ calls\ itself\ at\ a\ random\ interval\ from\ 0-0.3d\r\n
+comment6.params=
+comment6.target=boolean\ isTouchingLeftBoundary()
+comment6.text=\r\n\ @return\ whether\ xAxis\ is\ <\=\ -200\r\n
+numComments=7

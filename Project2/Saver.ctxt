@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Saver
+comment0.text=\r\n\ Saves\ an\ instance\ of\ a\ class\r\n
+comment1.params=classS\ z
+comment1.target=Saver(java.lang.Class,\ java.lang.Object)
+comment1.text=\r\n\ Takes\ the\ class\ you\ want\ saved\ as\ well\ as\ the\ instance\ of\ the\ object\ you\ want\ saved\ \ \r\n\ and\ writes\ the\ class\ in\ the\ format\ "className\ <>,\ variableName\ {}\ variableValue\ \:\:\:\ otherVariableName\ {}\ otherVariableValue\ \:\:\:\ ....etc...."\r\n\ Saves\ that\ string\ to\ a\ Queue.\ \r\n\ When\ the\ Queue\ gets\ a\ size\ >\=\ 33\ then\ we\ overwrite\ the\ current\ save\ file\ and\ we\ save\ all\ strings\ in\ the\ queue\r\n
+comment2.params=
+comment2.target=void\ save()
+comment2.text=\r\n\ Gets\ all\ objects\ from\ queue,\ writes\ line\ by\ line\ to\ the\ file,\ overriding\ the\ previouisly\ saved\ file\r\n
+numComments=3

@@ -1,0 +1,66 @@
+MovingGround <>, xAxis {} 504.0 ::: name {} MovingGround ::: id {} 1469 ::: vel {} x {} 504.0 y {} 526.0 ::: 
+
+GameObject <>, name {} player ::: id {} 2236 ::: vel {} x {} 0.0 y {} 0.0 ::: 
+
+MovingGround <>, xAxis {} 46.0 ::: name {} MovingGround ::: id {} 6811 ::: vel {} x {} 46.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 89.0 ::: name {} MovingGround ::: id {} 8258 ::: vel {} x {} 89.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 100.0 ::: name {} MovingGround ::: id {} 8270 ::: vel {} x {} 100.0 y {} 526.0 ::: 
+
+GameObject <>, name {} player ::: id {} 3477 ::: vel {} x {} 0.0 y {} -3.7800000000000087 ::: 
+
+GameObject <>, name {} player ::: id {} 5309 ::: vel {} x {} 0.0 y {} -3.7800000000000087 ::: 
+
+MovingGround <>, xAxis {} -65.0 ::: name {} MovingGround ::: id {} 1643 ::: vel {} x {} -65.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 89.0 ::: name {} MovingGround ::: id {} 929 ::: vel {} x {} 89.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 487.0 ::: name {} MovingGround ::: id {} 9936 ::: vel {} x {} 487.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 537.0 ::: name {} MovingGround ::: id {} 3900 ::: vel {} x {} 537.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 736.0 ::: name {} MovingGround ::: id {} 8950 ::: vel {} x {} 736.0 y {} 526.0 ::: 
+
+Obstacle <>, xAxis {} 107.0 ::: name {} Obstacle ::: id {} 5026 ::: vel {} x {} 107.0 y {} 456.0 ::: 
+
+Obstacle <>, xAxis {} 509.0 ::: name {} Obstacle ::: id {} 4982 ::: vel {} x {} 509.0 y {} 456.0 ::: 
+
+MovingGround <>, xAxis {} 630.0 ::: name {} MovingGround ::: id {} 7031 ::: vel {} x {} 630.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 830.0 ::: name {} MovingGround ::: id {} 2363 ::: vel {} x {} 830.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} -174.0 ::: name {} MovingGround ::: id {} 6584 ::: vel {} x {} -174.0 y {} 526.0 ::: 
+
+Obstacle <>, xAxis {} 27.0 ::: name {} Obstacle ::: id {} 3293 ::: vel {} x {} 27.0 y {} 456.0 ::: 
+
+MovingGround <>, xAxis {} 86.0 ::: name {} MovingGround ::: id {} 8325 ::: vel {} x {} 86.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 1023.0 ::: name {} MovingGround ::: id {} 1960 ::: vel {} x {} 1023.0 y {} 526.0 ::: 
+
+GameObject <>, name {} player ::: id {} 831 ::: vel {} x {} 0.0 y {} 0.0 ::: 
+
+MovingGround <>, xAxis {} 11.0 ::: name {} MovingGround ::: id {} 2882 ::: vel {} x {} 11.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 913.0 ::: name {} MovingGround ::: id {} 8770 ::: vel {} x {} 913.0 y {} 526.0 ::: 
+
+GameObject <>, name {} player ::: id {} 4046 ::: vel {} x {} 0.0 y {} -3.2800000000000082 ::: 
+
+GameObject <>, name {} player ::: id {} 3040 ::: vel {} x {} 0.0 y {} -3.2800000000000082 ::: 
+
+GameObject <>, name {} player ::: id {} 2325 ::: vel {} x {} 0.0 y {} 0.0 ::: 
+
+MovingGround <>, xAxis {} 483.0 ::: name {} MovingGround ::: id {} 4579 ::: vel {} x {} 483.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 488.0 ::: name {} MovingGround ::: id {} 1102 ::: vel {} x {} 488.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 460.0 ::: name {} MovingGround ::: id {} 5771 ::: vel {} x {} 460.0 y {} 526.0 ::: 
+
+MovingGround <>, xAxis {} 1094.0 ::: name {} MovingGround ::: id {} 9989 ::: vel {} x {} 1094.0 y {} 526.0 ::: 
+
+GameObject <>, name {} player ::: id {} 2957 ::: vel {} x {} 0.0 y {} 0.1 ::: 
+
+GameObject <>, name {} player ::: id {} 7194 ::: vel {} x {} 0.0 y {} 0.5 ::: 
+
+GameObject <>, name {} player ::: id {} 1747 ::: vel {} x {} 0.0 y {} 0.7999999999999999 ::: 
+
